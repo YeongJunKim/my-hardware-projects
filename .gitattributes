@@ -1,0 +1,6 @@
+stepfiles/2017_IRC_multimission.stp filter=lfs diff=lfs merge=lfs -text
+stepfiles/2017_mobile_base_Iran_rescue.stp filter=lfs diff=lfs merge=lfs -text
+stepfiles/2017_mobile_base_kor_rescue.stp filter=lfs diff=lfs merge=lfs -text
+stepfiles/2019_anti_drone.stp filter=lfs diff=lfs merge=lfs -text
+stepfiles/2019_Capstone.stp filter=lfs diff=lfs merge=lfs -text
+stepfiles filter=lfs diff=lfs merge=lfs -text
